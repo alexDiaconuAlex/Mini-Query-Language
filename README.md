@@ -1,9 +1,5 @@
 **# Tema 2 PP 2025 – Mini Query Language în Scala
 
-> Deadline: **4 mai 2025**  |  Schelet: **skel\_tema2.zip**  |  Upload pe *curs.upb.ro*  → Assignment „Tema 2 Scala”
-
----
-
 ## 📚 Scop
 
 În această temă vei construi, în stil **100 % funcțional**, un mini‑limbaj de interogare (inspirat de SQL) peste o bază de date simplă implementată de tine. Vei lucra atât cu operații pe tabele individuale, cât și cu operații între tabele pe care le poți compune.

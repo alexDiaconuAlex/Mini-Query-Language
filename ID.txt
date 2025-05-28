@@ -1,0 +1,10 @@
+   // 1
+la 1.5 SORT: tableData.sortBy(row => row.get(column).getOrElse(""))
+   // 2
+la 2.3 FILTER:
+    val filteredData = this.tableData.filter { row =>
+      f.eval(row) match {
+        case Some(true) => true
+        case _ => false
+      }
+    }
